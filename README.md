@@ -11,4 +11,10 @@ pip install -r requirements.txt
 ### Step 2 - Run main.py file
 
 ```bash
+<<<<<<< HEAD
 python main.py
+=======
+python main.py
+```
+this is sanjay bohara
+>>>>>>> ed7a26f1da328de873ef08a77c1e6c4db9bab47b
